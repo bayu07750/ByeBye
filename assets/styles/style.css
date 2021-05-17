@@ -342,7 +342,7 @@ main .contacts .socmed-wrapper {
   justify-content: center;
 }
 
-footer {
+footer, div.copyright {
   background-color: var(--color-secondary);
 }
 
