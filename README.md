@@ -16,5 +16,6 @@ Saya menggunakan repository ini untuk Submission Belajar Dasar Pemprograman Web 
 
 Thank you for visiting,
 ## Author
-* Eka Bayu Pratama
-  * [Twitter](https://www.twitter.com/bayu07750)
+Eka Bayu Pratama
+
+find me on [Twitter](https://www.twitter.com/bayu07750)
