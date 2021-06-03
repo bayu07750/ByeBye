@@ -1,5 +1,6 @@
 # ByeBye
-Saya menggunakan repository ini untuk Submission Belajar Dasar Pemprograman Web di Dicoding. Silahkan gunakan repository ini sebagai referensi saja, dan jangan lupa dapatkan kit anda jika ingin menggunakan icon seperti saya, silahkan cek link dibawah ini. Semoga membatu,
+Saya menggunakan repository ini untuk Submission Belajar Dasar Pemprograman Web di Dicoding. Silahkan gunakan repository ini sebagai referensi saja, dan jangan lupa dapatkan kit anda jika ingin menggunakan icon seperti saya, silahkan cek link dibawah ini. Semoga membatu, 
+[Demo](https://bayu07750.github.io/ByeBye/)
 
 ## Resource
 * [Font Awesome](https://www.fontawesome.com) untuk menampikan icon, seperti media sosial
